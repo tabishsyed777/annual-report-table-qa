@@ -1,0 +1,212 @@
+[
+  {
+    "q": "What was revenue in FY2024?",
+    "a": "120 INR million",
+    "ids": [
+      "t0-2024"
+    ]
+  },
+  {
+    "q": "What was revenue in FY2025?",
+    "a": "138 INR million",
+    "ids": [
+      "t0-2025"
+    ]
+  },
+  {
+    "q": "Change in revenue from 2024 to 2025?",
+    "a": "18 INR million",
+    "ids": [
+      "t0-2024",
+      "t0-2025"
+    ]
+  },
+  {
+    "q": "Compare revenue in 2025 and 2024",
+    "a": "2025: 138 INR million | 2024: 120 INR million",
+    "ids": [
+      "t0-2025",
+      "t0-2024"
+    ]
+  },
+  {
+    "q": "What was revenue in 2022?",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "What was operating profit in FY2024?",
+    "a": "21 INR million",
+    "ids": [
+      "t1-2024"
+    ]
+  },
+  {
+    "q": "What was operating profit in FY2025?",
+    "a": "18 INR million",
+    "ids": [
+      "t1-2025"
+    ]
+  },
+  {
+    "q": "Change in operating profit from 2024 to 2025?",
+    "a": "-3 INR million",
+    "ids": [
+      "t1-2024",
+      "t1-2025"
+    ]
+  },
+  {
+    "q": "Compare operating profit in 2025 and 2024",
+    "a": "2025: 18 INR million | 2024: 21 INR million",
+    "ids": [
+      "t1-2025",
+      "t1-2024"
+    ]
+  },
+  {
+    "q": "What was operating profit in 2022?",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "What was cash flow in FY2024?",
+    "a": "-8 INR million",
+    "ids": [
+      "t2-2024"
+    ]
+  },
+  {
+    "q": "What was cash flow in FY2025?",
+    "a": "4 INR million",
+    "ids": [
+      "t2-2025"
+    ]
+  },
+  {
+    "q": "Change in cash flow from 2024 to 2025?",
+    "a": "12 INR million",
+    "ids": [
+      "t2-2024",
+      "t2-2025"
+    ]
+  },
+  {
+    "q": "Compare cash flow in 2025 and 2024",
+    "a": "2025: 4 INR million | 2024: -8 INR million",
+    "ids": [
+      "t2-2025",
+      "t2-2024"
+    ]
+  },
+  {
+    "q": "What was cash flow in 2022?",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "What was inventory in FY2024?",
+    "a": "34 INR million",
+    "ids": [
+      "t3-2024"
+    ]
+  },
+  {
+    "q": "What was inventory in FY2025?",
+    "a": "34 INR million",
+    "ids": [
+      "t3-2025"
+    ]
+  },
+  {
+    "q": "Change in inventory from 2024 to 2025?",
+    "a": "0 INR million",
+    "ids": [
+      "t3-2024",
+      "t3-2025"
+    ]
+  },
+  {
+    "q": "Compare inventory in 2025 and 2024",
+    "a": "2025: 34 INR million | 2024: 34 INR million",
+    "ids": [
+      "t3-2025",
+      "t3-2024"
+    ]
+  },
+  {
+    "q": "What was inventory in 2022?",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "What was receivables in FY2024?",
+    "a": "41 INR million",
+    "ids": [
+      "t4-2024"
+    ]
+  },
+  {
+    "q": "What was receivables in FY2025?",
+    "a": "32 INR million",
+    "ids": [
+      "t4-2025"
+    ]
+  },
+  {
+    "q": "Change in receivables from 2024 to 2025?",
+    "a": "-9 INR million",
+    "ids": [
+      "t4-2024",
+      "t4-2025"
+    ]
+  },
+  {
+    "q": "Compare receivables in 2025 and 2024",
+    "a": "2025: 32 INR million | 2024: 41 INR million",
+    "ids": [
+      "t4-2025",
+      "t4-2024"
+    ]
+  },
+  {
+    "q": "What was receivables in 2022?",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "What was capital expenditure in FY2024?",
+    "a": "18 INR million",
+    "ids": [
+      "t5-2024"
+    ]
+  },
+  {
+    "q": "What was capital expenditure in FY2025?",
+    "a": "24 INR million",
+    "ids": [
+      "t5-2025"
+    ]
+  },
+  {
+    "q": "Change in capital expenditure from 2024 to 2025?",
+    "a": "6 INR million",
+    "ids": [
+      "t5-2024",
+      "t5-2025"
+    ]
+  },
+  {
+    "q": "Compare capital expenditure in 2025 and 2024",
+    "a": "2025: 24 INR million | 2024: 18 INR million",
+    "ids": [
+      "t5-2025",
+      "t5-2024"
+    ]
+  },
+  {
+    "q": "What was capital expenditure in 2022?",
+    "a": null,
+    "ids": []
+  }
+]

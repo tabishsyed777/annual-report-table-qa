@@ -1,0 +1,98 @@
+[
+  {
+    "id": "t0-2024",
+    "source": "demo-report.csv#row=2&column=FY2024",
+    "metric": "revenue",
+    "year": "2024",
+    "value": "120",
+    "unit": "INR million"
+  },
+  {
+    "id": "t0-2025",
+    "source": "demo-report.csv#row=2&column=FY2025",
+    "metric": "revenue",
+    "year": "2025",
+    "value": "138",
+    "unit": "INR million"
+  },
+  {
+    "id": "t1-2024",
+    "source": "demo-report.csv#row=3&column=FY2024",
+    "metric": "operating profit",
+    "year": "2024",
+    "value": "21",
+    "unit": "INR million"
+  },
+  {
+    "id": "t1-2025",
+    "source": "demo-report.csv#row=3&column=FY2025",
+    "metric": "operating profit",
+    "year": "2025",
+    "value": "18",
+    "unit": "INR million"
+  },
+  {
+    "id": "t2-2024",
+    "source": "demo-report.csv#row=4&column=FY2024",
+    "metric": "cash flow",
+    "year": "2024",
+    "value": "-8",
+    "unit": "INR million"
+  },
+  {
+    "id": "t2-2025",
+    "source": "demo-report.csv#row=4&column=FY2025",
+    "metric": "cash flow",
+    "year": "2025",
+    "value": "4",
+    "unit": "INR million"
+  },
+  {
+    "id": "t3-2024",
+    "source": "demo-report.csv#row=5&column=FY2024",
+    "metric": "inventory",
+    "year": "2024",
+    "value": "34",
+    "unit": "INR million"
+  },
+  {
+    "id": "t3-2025",
+    "source": "demo-report.csv#row=5&column=FY2025",
+    "metric": "inventory",
+    "year": "2025",
+    "value": "34",
+    "unit": "INR million"
+  },
+  {
+    "id": "t4-2024",
+    "source": "demo-report.csv#row=6&column=FY2024",
+    "metric": "receivables",
+    "year": "2024",
+    "value": "41",
+    "unit": "INR million"
+  },
+  {
+    "id": "t4-2025",
+    "source": "demo-report.csv#row=6&column=FY2025",
+    "metric": "receivables",
+    "year": "2025",
+    "value": "32",
+    "unit": "INR million"
+  },
+  {
+    "id": "t5-2024",
+    "source": "demo-report.csv#row=7&column=FY2024",
+    "metric": "capital expenditure",
+    "year": "2024",
+    "value": "18",
+    "unit": "INR million"
+  },
+  {
+    "id": "t5-2025",
+    "source": "demo-report.csv#row=7&column=FY2025",
+    "metric": "capital expenditure",
+    "year": "2025",
+    "value": "24",
+    "unit": "INR million"
+  }
+]
